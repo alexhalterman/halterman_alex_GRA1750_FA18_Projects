@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: rgba(29,29,29,1.00);
+}
+wrapper {
+	margin: 0 auto;
+	width: 480px;
+	display: block;
+	background-color: rgba(225,209,133,1.00);
+}
+#info {
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	background-color: rgba(178,5,8,1.00);
+	font-family: 'PT Sans Narrow', sans-serif;
+	
+}
+#logo {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: 16px;
+	left: 36px;
+}
+#navigation {
+	position: relative;
+	top: 15px;
+	left: 188px;
+}
+header  {
+	background-color: rgba(166,4,7,1.00);
+	height: 80px;
+}
+#steak {
+	width: 480px;
+}
+#menu {
+	text-align: center;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
